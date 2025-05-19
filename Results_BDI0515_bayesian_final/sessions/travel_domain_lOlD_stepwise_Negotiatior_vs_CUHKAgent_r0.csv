@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,CUHKAgent,travel_domain_lOlD,"('Cultural heritage', 'Casinos', 'Lunch facilities', 'Small boutiques', 'Art gallery', 'Bike tours', 'Parks and Gardens')",0.9442122121000001,0.3267156821,10000,1.2709278942000002,0.0,0.6125643374968313

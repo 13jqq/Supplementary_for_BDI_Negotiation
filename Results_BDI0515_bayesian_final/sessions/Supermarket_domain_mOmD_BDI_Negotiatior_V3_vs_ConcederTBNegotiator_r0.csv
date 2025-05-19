@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,ConcederTBNegotiator,Supermarket_domain_mOmD,"('Baguette', 'Strawberries', 'Candy', 'Peanut butter', 'Spinach', 'Energy Drinks')",0.9611115,0.5623644015999999,383,1.5234759016,0.0,0.1357033475230106

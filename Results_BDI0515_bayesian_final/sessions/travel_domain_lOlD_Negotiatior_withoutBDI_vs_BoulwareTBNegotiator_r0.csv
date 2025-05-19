@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,travel_domain_lOlD,"('Security (personal)', 'Nightclubs', 'Lunch facilities', 'Shopping malls', 'Art gallery', 'Bike tours', 'Parks and Gardens')",0.9016494115,0.48348272130000003,8523,1.3851321328,0.003443255806306566,0.4504130326033548

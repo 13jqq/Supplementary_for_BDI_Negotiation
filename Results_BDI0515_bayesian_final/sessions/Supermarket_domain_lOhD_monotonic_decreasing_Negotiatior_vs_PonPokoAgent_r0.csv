@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,PonPokoAgent,Supermarket_domain_lOhD,"('Baguette', 'Melons', 'Popcorn', 'Ham', 'Spinach', 'Coca Cola')",0.9263895,0.8529557943999999,3941,1.7793452943999999,0.0,0.08117771356999143

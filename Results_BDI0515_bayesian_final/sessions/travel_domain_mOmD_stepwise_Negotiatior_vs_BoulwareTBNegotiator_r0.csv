@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,BoulwareTBNegotiator,travel_domain_mOmD,"('Hospitality', 'Festivals', 'Local cuisine', 'Streets', 'Theater', 'Bike tours', 'Monuments')",0.943708219,0.6496151333,7707,1.5933233523,0.0,0.07114773352712182

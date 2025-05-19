@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,travel_domain_hOhD,"('Hospitality', 'Festivals', 'Lunch facilities', 'Shopping malls', 'Theater', 'Bike tours', 'Monuments')",0.710525321,0.6205734007000001,9998,1.3310987217,0.03121845785317783,0.3581547816548089

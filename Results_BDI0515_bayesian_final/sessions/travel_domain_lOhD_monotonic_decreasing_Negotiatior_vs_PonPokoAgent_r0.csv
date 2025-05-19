@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,PonPokoAgent,travel_domain_lOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Markets', 'Congress center', 'Outdoor activities', 'Monuments')",0.8784227538999999,0.8261193858,6867,1.7045421397,0.0,0.04452826478411285

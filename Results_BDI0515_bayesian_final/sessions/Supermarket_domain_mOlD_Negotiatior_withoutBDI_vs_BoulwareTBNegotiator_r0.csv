@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,Supermarket_domain_mOlD,"('Crackers', 'Melons', 'Potato Chips', 'Egg Salad', 'Potatoes', 'Wine')",0.9407519672,0.5559954503,8349,1.4967474175,0.0,0.09938452259114475

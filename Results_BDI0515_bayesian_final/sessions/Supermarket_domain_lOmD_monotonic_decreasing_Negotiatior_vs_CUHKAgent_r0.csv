@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,CUHKAgent,Supermarket_domain_lOmD,"('Baguette', 'Pears', 'Popcorn', 'Peanut butter', 'Tomatos', 'Energy Drinks')",0.9444450000000001,0.9190306232999998,9801,1.8634756232999998,0.0,0.029421331938056457

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,Atlas3,travel_domain_lOhD,"('Hospitality', 'Zoo', 'Local cuisine', 'Small boutiques', 'Congress center', 'Outdoor activities', 'Monuments')",0.90683932,0.8077619683,9212,1.7146012883,0.0,0.0741909194858198

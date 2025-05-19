@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,Supermarket_domain_mOlD,"('Baguette', 'Strawberries', 'Potato Chips', 'Egg Salad', 'Potatoes', 'Beer')",0.9579404997,0.39444186020000005,9771,1.3523823599,0.010921484714688411,0.26097181430725647

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,travel_domain_lOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Small boutiques', 'Museum', 'Indoor activities', 'Monuments')",0.9515412833,0.2350693191,9993,1.1866106024,0.1132004282655715,0.6391514338625657

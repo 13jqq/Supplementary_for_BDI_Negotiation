@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TMFAgent,adg_hOmD,"('none', 'none', 'standard', 'good', 'good', 'good')",0.7955867666,0.5186958684,9998,1.314282635,0.05728285829144191,0.2875088669059832

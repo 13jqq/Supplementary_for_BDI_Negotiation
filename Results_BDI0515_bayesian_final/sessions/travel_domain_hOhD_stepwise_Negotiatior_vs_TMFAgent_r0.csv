@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,TMFAgent,travel_domain_hOhD,"('Hospitality', 'Amusement park', 'Local cuisine', 'Shopping malls', 'Theater', 'Adventure', 'Monuments')",0.9045848833000001,0.5160340373,9998,1.4206189206,0.010964059053595933,0.5278293376930627

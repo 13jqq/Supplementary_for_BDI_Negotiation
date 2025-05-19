@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,Atlas3,travel_domain_hOmD,"('Cultural heritage', 'Casinos', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Landscape and nature')",0.9206065244,0.5767252105,9136,1.4973317349,0.0,0.3574424765090429

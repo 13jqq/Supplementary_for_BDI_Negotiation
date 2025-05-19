@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,BoulwareTBNegotiator,travel_domain_hOhD,"('Hospitality', 'Zoo', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Monuments')",0.9431237665000001,0.5186347517000001,8341,1.4617585182000001,0.009983301252861532,0.5462003852937777

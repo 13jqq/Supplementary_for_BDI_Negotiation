@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,travel_domain_hOmD,"('Hospitality', 'Zoo', 'Lunch facilities', 'Shopping malls', 'Theater', 'Bike tours', 'Monuments')",0.9840274764000001,0.3277668134,9993,1.3117942898000001,0.057209473374386366,0.5907732463278709

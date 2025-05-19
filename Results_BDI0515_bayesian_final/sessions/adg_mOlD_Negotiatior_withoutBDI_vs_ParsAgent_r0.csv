@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,adg_mOlD,"('none', 'none', 'good', 'good', 'good', 'good')",0.68,0.8638196851999999,9995,1.5438196852,0.12264677596770353,0.15286081845186736

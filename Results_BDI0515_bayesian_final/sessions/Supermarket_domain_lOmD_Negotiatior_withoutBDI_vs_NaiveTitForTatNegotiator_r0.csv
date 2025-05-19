@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,NaiveTitForTatNegotiator,Supermarket_domain_lOmD,"('Baguette', 'Pears', 'Popcorn', 'Ham', 'Spinach', 'Energy Drinks')",0.9833335000000001,0.6604860369000001,9,1.6438195369000002,0.12705783652435595,0.2870633564342766

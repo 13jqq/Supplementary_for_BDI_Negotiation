@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,BoulwareTBNegotiator,travel_domain_lOlD,"('Security (personal)', 'Excursion', 'Lunch facilities', 'Small boutiques', 'Art gallery', 'Outdoor activities', 'Parks and Gardens')",0.9704965281,0.2968689765,9175,1.2673655045999999,0.003443255806306684,0.6492979821679459

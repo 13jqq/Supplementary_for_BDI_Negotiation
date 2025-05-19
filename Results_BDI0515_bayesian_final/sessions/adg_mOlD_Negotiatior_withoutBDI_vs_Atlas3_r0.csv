@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,adg_mOlD,"('fairly good', 'standard', 'good', 'good', 'fairly good', 'good')",0.9839000000000001,0.6537406646,9612,1.6376406646000001,0.0,0.30726796285888697

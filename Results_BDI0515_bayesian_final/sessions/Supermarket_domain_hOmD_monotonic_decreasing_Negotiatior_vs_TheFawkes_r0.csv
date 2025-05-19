@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TheFawkes,Supermarket_domain_hOmD,"('Baguette', 'Pears', 'Nachos', 'Salami', 'Spinach', 'Juice')",0.886806,0.24067973889999997,9996,1.1274857389,0.0,0.42813713951065513

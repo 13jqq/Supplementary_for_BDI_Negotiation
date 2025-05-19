@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,travel_domain_hOlD,"('Cultural heritage', 'Festivals', 'International cuisine', 'Markets', 'Congress center', 'Hiking', 'Special streets')",0.3252878787,0.6908545463,9998,1.016142425,0.09495780679921827,0.4658560740353799

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,MetaAgent2013,Supermarket_domain_lOlD,"('Plain bread', 'Grapes', 'Doughnuts', 'Peanut butter', 'Leek', 'Juice')",0.9736316605,0.2832017182,9841,1.2568333787000001,0.04169532983010085,0.6430416562004199

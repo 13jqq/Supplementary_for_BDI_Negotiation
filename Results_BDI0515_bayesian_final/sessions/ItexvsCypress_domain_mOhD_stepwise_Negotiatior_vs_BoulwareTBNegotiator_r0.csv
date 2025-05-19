@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,BoulwareTBNegotiator,ItexvsCypress_domain_mOhD,"('$3.47', '20 days', 'Upon delivery', '5% spoilage allowed')",0.8422006477,0.844075524,7407,1.6862761716999999,0.0,0.1456794426128821

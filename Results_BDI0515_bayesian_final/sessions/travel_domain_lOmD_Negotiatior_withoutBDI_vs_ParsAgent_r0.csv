@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,travel_domain_lOmD,"('Hospitality', 'Nightclubs', 'International cuisine', 'Small boutiques', 'Museum', 'Hiking', 'Special streets')",0.7439991289000001,0.7097183316,9967,1.4537174605,0.14341880689865408,0.17368190284099067

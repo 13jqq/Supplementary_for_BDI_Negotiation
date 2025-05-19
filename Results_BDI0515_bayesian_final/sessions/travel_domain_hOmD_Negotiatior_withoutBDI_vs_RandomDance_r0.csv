@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,travel_domain_hOmD,"('Local traditions', 'Zoo', 'Cooking workshops', 'Markets', 'Theater', 'Adventure', 'Square')",0.642316429,0.24062599810000002,9993,0.8829424270999999,0.36143997214832413,0.5820391024057537

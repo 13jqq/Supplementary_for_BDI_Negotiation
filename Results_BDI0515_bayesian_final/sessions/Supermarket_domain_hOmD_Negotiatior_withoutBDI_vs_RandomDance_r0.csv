@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,Supermarket_domain_hOmD,"('Croissants', 'Pears', 'Candy', 'Cheese', 'Tomatos', 'Wine')",0.44652850000000005,0.38775989089999996,9993,0.8342883909000001,0.26700585052484477,0.3191117574147234

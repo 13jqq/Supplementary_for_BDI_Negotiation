@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,travel_domain_lOlD,"('Cultural heritage', 'Excursion', 'Lunch facilities', 'Streets', 'Congress center', 'Outdoor activities', 'Parks and Gardens')",1.0,0.21028438849999997,3,1.2102843884999999,0.0,0.7407652161086113

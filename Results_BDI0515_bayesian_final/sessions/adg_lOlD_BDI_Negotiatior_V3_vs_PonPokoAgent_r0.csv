@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,PonPokoAgent,adg_lOlD,"('standard', 'fairly good', 'standard', 'standard', 'good', 'standard')",0.9584,0.8234132488000001,4057,1.7818132488000002,0.0,0.0485516392535782

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,travel_domain_hOlD,"('Cultural heritage', 'Casinos', 'Lunch facilities', 'Markets', 'Congress center', 'Hiking', 'Square')",0.29003626909999997,0.8449850778,9998,1.1350213469,0.047136579976104646,0.528129110234684

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,travel_domain_mOhD,"('Cultural heritage', 'Nightlife and entertainment', 'Cooking workshops', 'Small boutiques', 'Museum', 'Bike tours', 'Landscape and nature')",0.1679690369,0.7480799683,9998,0.9160490052,0.20011491761374836,0.7836086794214053

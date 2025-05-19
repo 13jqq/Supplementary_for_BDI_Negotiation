@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,Supermarket_domain_lOlD,"('Croissants', 'Grapes', 'Doughnuts', 'Salami', 'Broccoli', 'Coffee')",0.9624618786,0.5632289240999999,8844,1.5256908026999998,0.0,0.36388028684021756

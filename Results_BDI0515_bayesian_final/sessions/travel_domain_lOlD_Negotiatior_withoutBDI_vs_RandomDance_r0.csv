@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,travel_domain_lOlD,"('Turistic activities', 'Amusement park', 'International cuisine', 'Markets', 'Music hall', 'Outdoor activities', 'Parks and Gardens')",0.7594610077,0.44313510200000006,9993,1.2025961097,0.11191526566507515,0.4657685673331574

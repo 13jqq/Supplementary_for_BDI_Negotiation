@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,NaiveTitForTatNegotiator,travel_domain_hOmD,"('Security (personal)', 'Zoo', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Landscape and nature')",0.9493658100000001,0.5103621748999999,9839,1.4597279849,0.01706566931329612,0.4248938999452009

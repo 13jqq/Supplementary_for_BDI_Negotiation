@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,thompson_employment_hOmD,,0,0,10004,0,0.941377975048648,1.0589691504251482

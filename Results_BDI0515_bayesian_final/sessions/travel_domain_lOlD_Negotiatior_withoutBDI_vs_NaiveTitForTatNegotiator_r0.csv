@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,NaiveTitForTatNegotiator,travel_domain_lOlD,"('Political stability', 'Amusement park', 'Lunch facilities', 'Small boutiques', 'Art gallery', 'Outdoor activities', 'Monuments')",0.747032514,0.6147964653,9973,1.3618289793,0.08754140327554982,0.29414344981554114

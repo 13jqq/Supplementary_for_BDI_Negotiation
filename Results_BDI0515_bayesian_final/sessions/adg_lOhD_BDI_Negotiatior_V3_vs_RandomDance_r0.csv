@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,adg_lOhD,"('good', 'good', 'good', 'good', 'fairly good', 'good')",0.9983000000000001,0.9049303415,8082,1.9032303415,0.0,0.04944381357025063

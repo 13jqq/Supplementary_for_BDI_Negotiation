@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,MetaAgent2013,Supermarket_domain_hOlD,"('Crackers', 'Apples', 'Doughnuts', 'Peanut butter', 'Carrots', 'Coffee')",0.8383382454,0.3963069376,9998,1.234645183,0.1037387399209661,0.6075913218297704

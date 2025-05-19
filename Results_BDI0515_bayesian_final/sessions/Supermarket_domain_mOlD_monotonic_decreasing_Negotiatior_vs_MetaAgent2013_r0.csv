@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,MetaAgent2013,Supermarket_domain_mOlD,"('Plain bread', 'Strawberries', 'Chocolate bars', 'Egg Salad', 'Potatoes', 'Beer')",0.9530374417,0.37971973040000007,9807,1.3327571721,0.020227988697489943,0.27474963548420583

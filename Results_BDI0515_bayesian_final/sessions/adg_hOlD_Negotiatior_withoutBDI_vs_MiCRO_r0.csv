@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MiCRO,adg_hOlD,"('fairly good', 'meager', 'meager', 'standard', 'standard', 'fairly good')",0.7497387545,0.6747467568000001,5546,1.4244855113000001,0.0,0.012663591405027059

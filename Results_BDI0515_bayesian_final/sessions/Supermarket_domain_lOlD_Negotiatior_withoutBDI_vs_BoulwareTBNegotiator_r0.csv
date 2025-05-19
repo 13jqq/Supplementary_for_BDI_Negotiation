@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,Supermarket_domain_lOlD,"('Croissants', 'Grapes', 'Doughnuts', 'Sandwichspread', 'Leek', 'Coffee')",0.9414086671,0.5998276581,8129,1.5412363252,0.04222209190538166,0.3247872633988517

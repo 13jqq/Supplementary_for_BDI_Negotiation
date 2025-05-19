@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,ConcederTBNegotiator,Supermarket_domain_hOlD,"('Crackers', 'Cherries', 'Nachos', 'Jam', 'Leek', 'Coffee')",0.9419813375999999,0.40629356980000003,1259,1.3482749074,0.013546234672443102,0.6544170686988733

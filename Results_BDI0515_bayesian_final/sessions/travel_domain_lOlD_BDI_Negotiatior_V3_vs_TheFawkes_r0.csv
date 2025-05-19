@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TheFawkes,travel_domain_lOlD,"('Cultural heritage', 'Excursion', 'Lunch facilities', 'Shopping malls', 'Art gallery', 'Outdoor activities', 'Parks and Gardens')",0.9390680559,0.44805070849999995,9988,1.3871187643999998,0.0,0.4967413389786781

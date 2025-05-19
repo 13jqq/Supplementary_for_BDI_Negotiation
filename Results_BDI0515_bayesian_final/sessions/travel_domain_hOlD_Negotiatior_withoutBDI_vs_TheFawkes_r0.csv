@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,travel_domain_hOlD,"('Local traditions', 'Festivals', 'Lunch facilities', 'Streets', 'Theater', 'Hiking', 'Palace')",0.7906563691999999,0.6774506027999999,9972,1.4681069719999997,0.0003644128830463359,0.0003644128830463359

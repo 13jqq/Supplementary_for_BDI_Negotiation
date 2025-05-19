@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,MiCRO,thompson_employment_lOlD,"('6%', 'Division E', '100%', '100%', '$38,000')",0.7525,0.8953035199,4545,1.6478035199,0.0,0.2372243824399277

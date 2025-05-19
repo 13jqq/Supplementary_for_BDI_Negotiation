@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TMFAgent,Supermarket_domain_hOmD,"('Baguette', 'Pears', 'Chocolate bars', 'Salami', 'Tomatos', 'Beer')",0.809029,0.128000576,9998,0.937029576,0.1098791685477991,0.5025486152015992

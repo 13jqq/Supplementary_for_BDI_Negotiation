@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,BoulwareTBNegotiator,Supermarket_domain_lOhD,"('Baguette', 'Melons', 'Popcorn', 'Ham', 'Spinach', 'Energy Drinks')",0.9388895,0.7664906239,6995,1.7053801239,0.0,0.16076980151907871

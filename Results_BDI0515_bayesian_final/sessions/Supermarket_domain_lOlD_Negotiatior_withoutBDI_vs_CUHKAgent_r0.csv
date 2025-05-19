@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,Supermarket_domain_lOlD,"('Baguette', 'Strawberries', 'Chocolate bars', 'Sandwichspread', 'Leek', 'Coffee')",0.9282526141,0.5649625912999999,10000,1.4932152053999999,0.03425316597909327,0.35838479137843876

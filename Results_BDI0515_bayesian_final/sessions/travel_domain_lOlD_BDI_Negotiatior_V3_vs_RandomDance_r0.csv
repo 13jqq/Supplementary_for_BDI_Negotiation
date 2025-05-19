@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,travel_domain_lOlD,"('Political stability', 'Nightclubs', 'Lunch facilities', 'Small boutiques', 'Art gallery', 'Outdoor activities', 'Parks and Gardens')",0.9757173606,0.2805014229,9993,1.2562187835,0.0135793172014068,0.666469546951

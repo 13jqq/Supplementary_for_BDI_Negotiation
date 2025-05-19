@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,BoulwareTBNegotiator,Supermarket_domain_lOlD,"('Crackers', 'Grapes', 'Doughnuts', 'Peanut butter', 'Leek', 'Juice')",0.9736316605,0.30436206260000004,9175,1.2779937231,0.02129968590108795,0.6220044108690895

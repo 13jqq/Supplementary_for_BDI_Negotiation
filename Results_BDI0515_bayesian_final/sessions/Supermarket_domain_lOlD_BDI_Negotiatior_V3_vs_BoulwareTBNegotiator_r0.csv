@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,BoulwareTBNegotiator,Supermarket_domain_lOlD,"('Croissants', 'Strawberries', 'Chocolate bars', 'Peanut butter', 'Leek', 'Coffee')",0.9821313697,0.3126726945,9175,1.2948040642,0.0172571175964731,0.614745846094223

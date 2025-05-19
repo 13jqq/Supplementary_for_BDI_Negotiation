@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,PonPokoAgent,Supermarket_domain_hOlD,"('Crackers', 'Apples', 'Popcorn', 'Egg Salad', 'Tomatos', 'Wine')",0.6040281798,0.7948733968999999,9997,1.3989015767,0.0,0.14712460089540158

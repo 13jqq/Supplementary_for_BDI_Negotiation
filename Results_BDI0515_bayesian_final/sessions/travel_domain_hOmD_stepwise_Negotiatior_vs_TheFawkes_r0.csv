@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,TheFawkes,travel_domain_hOmD,"('Cultural heritage', 'Casinos', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Monuments')",0.9365109444,0.5639731855,9982,1.5004841299,0.0,0.3777633521931533

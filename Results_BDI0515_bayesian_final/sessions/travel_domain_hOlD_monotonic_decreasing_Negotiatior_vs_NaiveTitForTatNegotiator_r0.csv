@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,NaiveTitForTatNegotiator,travel_domain_hOlD,"('Cultural heritage', 'Nightclubs', 'Local cuisine', 'Shopping malls', 'Music hall', 'Outdoor activities', 'Palace')",0.6737068071,0.5414489941,9993,1.2151558011999999,0.13928578899427427,0.17972232586875336

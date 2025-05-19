@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MiCRO,adg_hOlD,,0,0,10004,0,0.8506389617985101,1.0110026382253636

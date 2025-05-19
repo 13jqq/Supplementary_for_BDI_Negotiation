@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,RandomDance,Supermarket_domain_mOmD,"('Baguette', 'Strawberries', 'Popcorn', 'Peanut butter', 'Spinach', 'Coca Cola')",0.965278,0.5363860163,9993,1.5016640163,0.02588133799325262,0.1620088474727702

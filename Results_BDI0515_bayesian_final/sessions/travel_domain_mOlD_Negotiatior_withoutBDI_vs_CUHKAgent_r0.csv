@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,travel_domain_mOlD,"('Turistic activities', 'Nightclubs', 'International cuisine', 'Markets', 'Music hall', 'Adventure', 'Historical places')",0.7563687401999999,0.5910220402,10000,1.3473907804,0.11150713128399738,0.1457577581225

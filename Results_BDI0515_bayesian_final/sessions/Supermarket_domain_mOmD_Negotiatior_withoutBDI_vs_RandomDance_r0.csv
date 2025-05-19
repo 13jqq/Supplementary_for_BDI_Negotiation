@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,Supermarket_domain_mOmD,"('Baguette', 'Melons', 'Chocolate bars', 'Salami', 'Tomatos', 'Energy Drinks')",0.783335,0.6125281888999999,9993,1.3958631889,0.13272608984087014,0.17464181888449945

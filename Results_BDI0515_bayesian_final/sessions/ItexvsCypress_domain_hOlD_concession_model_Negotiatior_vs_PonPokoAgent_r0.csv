@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,PonPokoAgent,ItexvsCypress_domain_hOlD,"('$4.12', '20 days', '60 days after delivery', '5% spoilage allowed')",0.30337716309999996,0.927367951,8779,1.2307451140999999,0.0,0.387508569585262

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,travel_domain_hOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Shopping malls', 'Congress center', 'Bike tours', 'Monuments')",0.9104567263,0.5127437033000001,9653,1.4232004296,0.015787080969120532,0.5336512820334208

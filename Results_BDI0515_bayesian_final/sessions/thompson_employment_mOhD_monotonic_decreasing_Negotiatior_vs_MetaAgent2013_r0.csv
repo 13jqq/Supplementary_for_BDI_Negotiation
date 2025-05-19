@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,MetaAgent2013,thompson_employment_mOhD,"('10%', 'Division E', '90%', '80%', '$38,000')",0.8725,0.5745337035,9584,1.4470337035,0.0460398863390855,0.3077734220087334

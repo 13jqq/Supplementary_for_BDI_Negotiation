@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,Supermarket_domain_hOlD,"('Croissants', 'Apples', 'Popcorn', 'Salami', 'Tomatos', 'Coffee')",0.7976319166,0.4275225569,9997,1.2251544735,0.1350130863730972,0.5613544003108267

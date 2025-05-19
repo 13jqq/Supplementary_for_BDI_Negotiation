@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TheFawkes,thompson_employment_lOmD,"('10%', 'Division C', '100%', '20%', '$40,000')",0.915,0.8045359167999999,9954,1.7195359168,0.0,0.0180677631154687

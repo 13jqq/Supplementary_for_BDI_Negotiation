@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,NaiveTitForTatNegotiator,Supermarket_domain_mOlD,"('Crackers', 'Melons', 'Cookies', 'Egg Salad', 'Spinach', 'Wine')",0.9079262628,0.5342027187,9963,1.4421289815,0.03522478933957924,0.11759368216486343

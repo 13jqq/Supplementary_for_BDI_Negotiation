@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,ItexvsCypress_domain_mOmD,"('$3.71', '45 days', 'Upon delivery', '5% spoilage allowed')",0.6815367579,0.7645000980000001,9985,1.4460368559,0.0,0.04255416636541139

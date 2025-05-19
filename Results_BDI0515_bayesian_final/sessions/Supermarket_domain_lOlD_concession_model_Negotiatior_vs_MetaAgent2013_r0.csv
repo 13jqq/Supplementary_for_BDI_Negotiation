@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,Supermarket_domain_lOlD,"('Croissants', 'Strawberries', 'Doughnuts', 'Peanut butter', 'Leek', 'Coffee')",0.9909494387000001,0.3201709445,9831,1.3111203832,0.005682066330468934,0.6084821527795572

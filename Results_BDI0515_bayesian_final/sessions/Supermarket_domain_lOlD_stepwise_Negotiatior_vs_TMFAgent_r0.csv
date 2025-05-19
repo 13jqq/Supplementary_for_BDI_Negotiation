@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,TMFAgent,Supermarket_domain_lOlD,"('Baguette', 'Grapes', 'Candy', 'Egg Salad', 'Broccoli', 'Coffee')",0.9578704384,0.4102909983,9998,1.3681614367,0.06644380332639624,0.5150025840218057

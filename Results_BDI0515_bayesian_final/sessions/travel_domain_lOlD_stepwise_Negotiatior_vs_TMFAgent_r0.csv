@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,TMFAgent,travel_domain_lOlD,"('Cultural heritage', 'Festivals', 'Lunch facilities', 'Streets', 'Art gallery', 'Outdoor activities', 'Parks and Gardens')",0.9979153082999999,0.25352070849999997,9997,1.2514360167999998,0.0,0.6994077580325784

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,Atlas3,thompson_employment_lOlD,"('6%', 'Division B', '100%', '100%', '$38,000')",0.6924999999999999,0.9437291125,9327,1.6362291125,0.0,0.31365915062647337

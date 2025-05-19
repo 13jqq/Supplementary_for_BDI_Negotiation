@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,adg_hOhD,"('fairly good', 'fairly good', 'standard', 'fairly good', 'fairly good', 'fairly good')",0.6437227476,0.6563216732,7671,1.3000444208,0.060206424627787504,0.15925657184689104

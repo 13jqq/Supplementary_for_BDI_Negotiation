@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,ParsAgent,travel_domain_lOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Small boutiques', 'Music hall', 'Outdoor activities', 'Monuments')",0.9211822798,0.7045526607,8651,1.6257349405000001,0.0,0.17339569936311483

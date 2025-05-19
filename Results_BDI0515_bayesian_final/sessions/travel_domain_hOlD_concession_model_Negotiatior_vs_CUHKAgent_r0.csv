@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,CUHKAgent,travel_domain_hOlD,"('Political stability', 'Excursion', 'Lunch facilities', 'Markets', 'Theater', 'Indoor activities', 'Palace')",1.0,0.2919139815,10000,1.2919139815,0.0,0.43874408099183326

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,RandomDance,Supermarket_domain_mOlD,"('Crackers', 'Melons', 'Potato Chips', 'Peanut butter', 'Potatoes', 'Beer')",0.994856236,0.2532776618,9993,1.2481338977999998,0.0,0.4065390537980607

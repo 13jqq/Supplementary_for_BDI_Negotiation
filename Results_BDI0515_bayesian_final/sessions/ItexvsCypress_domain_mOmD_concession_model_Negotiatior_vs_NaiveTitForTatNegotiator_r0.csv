@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,NaiveTitForTatNegotiator,ItexvsCypress_domain_mOmD,"('$3.71', '45 days', 'Upon delivery', 'Full price')",0.8393361102,0.5715100980000001,9081,1.4108462082000002,0.0,0.2845645885455686

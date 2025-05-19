@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,MetaAgent2013,travel_domain_mOmD,"('Hospitality', 'Amusement park', 'Local cuisine', 'Streets', 'Museum', 'Bike tours', 'Monuments')",0.9505113613000001,0.6428713302999999,9505,1.5933826916,0.00957922878194593,0.07827631133989413

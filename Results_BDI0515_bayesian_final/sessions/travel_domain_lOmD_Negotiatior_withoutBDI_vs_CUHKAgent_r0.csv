@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,travel_domain_lOmD,"('Hospitality', 'Festivals', 'Local cuisine', 'Streets', 'Museum', 'Bike tours', 'Palace')",0.8476369575,0.6776007634000001,10000,1.5252377209,0.04155082277999903,0.17201078592016095

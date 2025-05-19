@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,travel_domain_mOlD,"('Turistic activities', 'Nightlife and entertainment', 'Cooking workshops', 'Markets', 'Theater', 'Indoor activities', 'Historical places')",0.4755401958,0.6512199607,9998,1.1267601565,0.1824934724566466,0.3552973090461351

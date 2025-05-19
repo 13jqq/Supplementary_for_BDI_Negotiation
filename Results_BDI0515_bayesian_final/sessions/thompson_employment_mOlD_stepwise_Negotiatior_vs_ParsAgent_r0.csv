@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,ParsAgent,thompson_employment_mOlD,"('10%', 'Division D', '80%', '100%', '$40,000')",0.84,0.7635976806,8139,1.6035976806,0.0,0.023193426949789032

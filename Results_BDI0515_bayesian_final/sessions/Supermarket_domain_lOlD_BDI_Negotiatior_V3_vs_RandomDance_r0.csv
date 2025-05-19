@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,Supermarket_domain_lOlD,"('Baguette', 'Grapes', 'Cookies', 'Peanut butter', 'Leek', 'Coffee')",0.9969301976,0.21335658300000002,9993,1.2102867806,0.027112322163875692,0.7151357206003225

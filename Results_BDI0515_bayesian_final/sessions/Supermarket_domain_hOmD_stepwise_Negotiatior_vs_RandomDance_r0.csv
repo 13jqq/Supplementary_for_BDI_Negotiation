@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,RandomDance,Supermarket_domain_hOmD,"('Baguette', 'Pears', 'Popcorn', 'Egg Salad', 'Spinach', 'Energy Drinks')",0.966667,0.0027929829,9993,0.9694599829,0.016672135436875884,0.6759931336360343

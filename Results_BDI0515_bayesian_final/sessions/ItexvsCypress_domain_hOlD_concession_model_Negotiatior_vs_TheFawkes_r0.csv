@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TheFawkes,ItexvsCypress_domain_hOlD,"('$4.12', '30 days', '60 days after delivery', '5% spoilage allowed')",0.27285716309999997,0.922531431,9852,1.1953885941,0.03090084668274317,0.40671613649842314

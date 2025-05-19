@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,thompson_employment_hOmD,"('10%', 'Division C', '60%', '80%', '$32,000')",0.49499999999999994,0.48234723749999997,10000,0.9773472374999999,0.3008371860415599,0.36859763139058754

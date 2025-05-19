@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TheFawkes,travel_domain_hOmD,"('Cultural heritage', 'Casinos', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Palace')",0.9476207144000001,0.550225198,9984,1.4978459124,0.0,0.39527885214865255

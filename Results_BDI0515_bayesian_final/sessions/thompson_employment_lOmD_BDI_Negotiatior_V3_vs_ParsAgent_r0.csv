@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,ParsAgent,thompson_employment_lOmD,"('10%', 'Division C', '90%', '20%', '$40,000')",0.845,0.8045359167999999,7849,1.6495359168,0.07,0.085594649739319

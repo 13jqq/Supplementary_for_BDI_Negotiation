@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TheFawkes,Supermarket_domain_mOlD,"('Crackers', 'Grapes', 'Potato Chips', 'Peanut butter', 'Potatoes', 'Beer')",0.804362569,0.44327563940000003,9990,1.2476382084000002,0.14458947734396932,0.23535645069249062

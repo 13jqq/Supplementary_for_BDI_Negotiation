@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TheFawkes,adg_mOlD,"('good', 'fairly good', 'good', 'good', 'fairly good', 'good')",0.9967000000000001,0.4476644834,9988,1.4443644834000002,0.0,0.49921224899534333

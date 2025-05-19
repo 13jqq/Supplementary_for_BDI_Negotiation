@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,adg_hOlD,"('meager', 'meager', 'meager', 'standard', 'good', 'fairly good')",0.989148813,0.445711349,9719,1.434860162,0.0,0.3187315217262128

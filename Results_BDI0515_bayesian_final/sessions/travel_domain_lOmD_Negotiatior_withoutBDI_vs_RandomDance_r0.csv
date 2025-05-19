@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,travel_domain_lOmD,"('Hospitality', 'Nightclubs', 'Local cuisine', 'Small boutiques', 'Cinema', 'Bike tours', 'Square')",0.6816880178000001,0.26119909999999996,9993,0.9428871178,0.3184346409272664,0.6111742183394578

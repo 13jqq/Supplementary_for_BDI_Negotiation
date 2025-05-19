@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,RandomDance,travel_domain_lOlD,"('Political stability', 'Amusement park', 'Lunch facilities', 'Small boutiques', 'Congress center', 'Outdoor activities', 'Parks and Gardens')",0.9778020523,0.2372651029,9993,1.2150671551999999,0.025860931544402707,0.708038067518578

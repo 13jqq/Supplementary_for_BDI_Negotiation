@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,TMFAgent,Supermarket_domain_hOlD,"('Plain bread', 'Apples', 'Doughnuts', 'Chocolate', 'Carrots', 'Coffee')",0.9384111206,0.3032070222,9998,1.2416181428,0.04192980521238096,0.7380764915101117

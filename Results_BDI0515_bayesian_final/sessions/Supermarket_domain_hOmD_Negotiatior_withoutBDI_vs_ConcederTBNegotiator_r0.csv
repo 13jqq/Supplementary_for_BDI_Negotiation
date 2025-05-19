@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ConcederTBNegotiator,Supermarket_domain_hOmD,"('Baguette', 'Pears', 'Nachos', 'Salami', 'Spinach', 'Coffee')",0.8680559999999999,0.27212036349999996,2806,1.1401763635,0.0,0.3915355458001227

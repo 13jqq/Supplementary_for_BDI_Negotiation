@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,ConcederTBNegotiator,Supermarket_domain_mOlD,"('Croissants', 'Strawberries', 'Cookies', 'Egg Salad', 'Potatoes', 'Beer')",0.9627342457,0.3878103206,1423,1.3505445663,0.0096264216270387,0.2683430552510152

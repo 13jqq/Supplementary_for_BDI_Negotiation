@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,ItexvsCypress_domain_mOmD,"('$3.71', '60 days', 'Upon delivery', 'Full price')",0.7935561101999999,0.63978,9962,1.4333361102,0.0,0.20236775221923864

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,thompson_employment_mOmD,"('10%', 'Division E', '60%', '100%', '$38,000')",0.6775,0.8657500424,9994,1.5432500424,0.009973029266252174,0.29383130222928955

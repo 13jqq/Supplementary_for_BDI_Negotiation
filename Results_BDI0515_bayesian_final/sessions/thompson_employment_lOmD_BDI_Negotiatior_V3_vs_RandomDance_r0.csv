@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,thompson_employment_lOmD,"('10%', 'Division C', '100%', '0%', '$40,000')",0.9,0.6372189319999999,9993,1.537218932,0.09821019126247955,0.1600812379087494

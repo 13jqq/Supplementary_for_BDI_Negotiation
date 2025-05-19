@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,ItexvsCypress_domain_lOmD,"('$4.37', '20 days', 'Upon delivery', 'Full price')",0.52998,0.14895999999999998,9993,0.67894,0.4924389400268501,0.8847514294356738

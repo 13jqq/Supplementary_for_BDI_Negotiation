@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,Supermarket_domain_hOhD,"('Crackers', 'Melons', 'Candy', 'Cheese', 'Tomatos', 'Beer')",0.4479175000000001,0.7090610468,9981,1.1569785468,0.2682047091074323,0.2810420253916823

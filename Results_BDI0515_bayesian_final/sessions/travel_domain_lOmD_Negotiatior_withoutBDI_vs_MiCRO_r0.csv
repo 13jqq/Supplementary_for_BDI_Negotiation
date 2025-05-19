@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MiCRO,travel_domain_lOmD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Streets', 'Art gallery', 'Adventure', 'Palace')",0.8255446844999998,0.863751149,3459,1.6892958335,0.0,0.02564163412316461

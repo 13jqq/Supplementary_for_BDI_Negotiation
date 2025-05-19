@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,travel_domain_lOlD,"('Turistic activities', 'Amusement park', 'Lunch facilities', 'Shopping malls', 'Congress center', 'Outdoor activities', 'Parks and Gardens')",0.9259427476,0.4197377885,9998,1.3456805361,0.02130849519698664,0.5186049968409853

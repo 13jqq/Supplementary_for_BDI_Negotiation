@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,TheFawkes,travel_domain_lOlD,"('Cultural heritage', 'Excursion', 'Lunch facilities', 'Shopping malls', 'Congress center', 'Outdoor activities', 'Parks and Gardens')",0.9411527476,0.40481438849999996,9990,1.3459671361,0.0,0.5378168571494554

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,ItexvsCypress_domain_hOmD,"('$3.47', '60 days', 'Upon delivery', '5% spoilage allowed')",0.7201206477000001,0.3655844224,9939,1.0857050701,0.0,0.3369600680047372

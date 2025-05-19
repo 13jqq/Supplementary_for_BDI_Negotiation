@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,ParsAgent,thompson_employment_mOmD,"('10%', 'Division E', '80%', '80%', '$40,000')",0.8450000000000001,0.7752831497999999,8029,1.6202831498,0.0,0.104096028886502

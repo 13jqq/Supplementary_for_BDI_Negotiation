@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,Supermarket_domain_mOlD,"('Croissants', 'Grapes', 'Cookies', 'Egg Salad', 'Potatoes', 'Wine')",0.7441612282,0.7385440181,9997,1.4827052463000001,0.009626421627038752,0.1905823060332388

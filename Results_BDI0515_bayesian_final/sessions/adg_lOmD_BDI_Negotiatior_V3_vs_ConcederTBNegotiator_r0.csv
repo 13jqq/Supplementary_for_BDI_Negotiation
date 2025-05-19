@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,ConcederTBNegotiator,adg_lOmD,"('good', 'fairly good', 'fairly good', 'standard', 'good', 'good')",0.9848,0.8221084512,19,1.8069084512,0.0126534274990037,0.0977966288277492

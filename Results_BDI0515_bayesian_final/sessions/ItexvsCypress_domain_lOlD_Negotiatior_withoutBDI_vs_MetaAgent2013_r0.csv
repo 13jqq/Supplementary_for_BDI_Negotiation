@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,ItexvsCypress_domain_lOlD,"('$4.12', '45 days', '60 days after delivery', '10% spoilage allowed')",0.1542465154,0.91166,9994,1.0659065154,0.09949755775897214,0.5852548672426222

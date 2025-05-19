@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,Supermarket_domain_mOhD,"('Baguette', 'Pears', 'Cookies', 'Salami', 'Spinach', 'Juice')",0.886806,0.6349816732,9978,1.5217876732,0.009055924553222716,0.27070244786559206

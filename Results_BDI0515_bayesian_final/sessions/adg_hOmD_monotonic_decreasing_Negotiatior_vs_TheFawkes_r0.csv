@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TheFawkes,adg_hOmD,"('meager', 'none', 'standard', 'standard', 'standard', 'meager')",0.9776980396,0.4081316403,9990,1.3858296799,0.0,0.4788719226805436

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,Atlas3,adg_mOmD,"('good', 'standard', 'standard', 'good', 'good', 'fairly good')",0.9803000000000001,0.7987517457000001,9464,1.7790517457000001,0.0,0.0

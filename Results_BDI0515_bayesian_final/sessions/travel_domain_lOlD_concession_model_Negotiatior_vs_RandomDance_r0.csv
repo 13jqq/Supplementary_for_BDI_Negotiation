@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,RandomDance,travel_domain_lOlD,"('Turistic activities', 'Festivals', 'Lunch facilities', 'Streets', 'Art gallery', 'Outdoor activities', 'Parks and Gardens')",0.9827053082999999,0.2684441085,9993,1.2511494168,0.0,0.6801713266565714

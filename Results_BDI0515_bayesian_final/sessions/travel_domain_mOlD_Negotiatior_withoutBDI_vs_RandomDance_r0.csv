@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,travel_domain_mOlD,"('Local traditions', 'Festivals', 'International cuisine', 'Markets', 'Art gallery', 'Adventure', 'Historical places')",0.6137502175,0.4500061795,9993,1.0637563970000001,0.312036305866057,0.34233121229706354

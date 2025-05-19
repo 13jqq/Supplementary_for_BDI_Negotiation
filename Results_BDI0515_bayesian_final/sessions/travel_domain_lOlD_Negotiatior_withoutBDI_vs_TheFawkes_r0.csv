@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,travel_domain_lOlD,"('Turistic activities', 'Nightlife and entertainment', 'Lunch facilities', 'Shopping malls', 'Art gallery', 'Adventure', 'Parks and Gardens')",0.8635855649,0.5143941085,9984,1.3779796734,0.0,0.40952014263200925

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,NaiveTitForTatNegotiator,Supermarket_domain_lOlD,"('Baguette', 'Grapes', 'Doughnuts', 'Salami', 'Broccoli', 'Coffee')",0.9624618786,0.5395319537,9129,1.5019938323,0.02369697039999996,0.38730300558398784

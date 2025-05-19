@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,RandomDance,Supermarket_domain_mOlD,"('Croissants', 'Melons', 'Cookies', 'Peanut butter', 'Potatoes', 'Beer')",0.988759164,0.24582825200000002,9993,1.234587416,0.009626421627038752,0.4126903466553184

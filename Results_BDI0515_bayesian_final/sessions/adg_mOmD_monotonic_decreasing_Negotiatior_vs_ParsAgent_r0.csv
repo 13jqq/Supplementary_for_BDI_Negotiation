@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,ParsAgent,adg_mOmD,"('good', 'fairly good', 'fairly good', 'good', 'good', 'fairly good')",0.9950000000000001,0.7437774879,8215,1.7387774879000002,0.0,0.056905702883462146

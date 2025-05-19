@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,travel_domain_lOmD,"('Hospitality', 'Amusement park', 'Local cuisine', 'Markets', 'Art gallery', 'Hiking', 'Monuments')",0.8798319074000001,0.491059988,9993,1.3708918954,0.0968277155607136,0.3600561517955779

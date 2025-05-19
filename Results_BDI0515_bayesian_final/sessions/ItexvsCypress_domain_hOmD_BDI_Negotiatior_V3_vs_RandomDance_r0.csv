@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,RandomDance,ItexvsCypress_domain_hOmD,"('$3.71', '20 days', '30 days after delivery', '10% spoilage allowed')",0.5710463179999999,0.2886241666,9993,0.8596704846,0.167767806054397,0.431950300804971

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,Atlas3,Supermarket_domain_hOhD,"('Baguette', 'Strawberries', 'Popcorn', 'Peanut butter', 'Tomatos', 'Beer')",0.903473,0.5474082435000001,9340,1.4508812435,0.0,0.3671072742529257

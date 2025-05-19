@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,travel_domain_lOlD,"('Political stability', 'Amusement park', 'Lunch facilities', 'Markets', 'Music hall', 'Bike tours', 'Palace')",0.6513910277,0.9048183727000001,9979,1.5562094004000002,0.06832314787753752,0.10228328853107906

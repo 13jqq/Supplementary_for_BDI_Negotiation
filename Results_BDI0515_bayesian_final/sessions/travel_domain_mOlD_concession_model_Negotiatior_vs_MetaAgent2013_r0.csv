@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,travel_domain_mOlD,"('Hospitality', 'Nightlife and entertainment', 'International cuisine', 'Small boutiques', 'Museum', 'Adventure', 'Palace')",0.9647698651000001,0.48897996219999995,9998,1.4537498273,0.0,0.2705529801730372

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,NaiveTitForTatNegotiator,travel_domain_hOlD,"('Cultural heritage', 'Amusement park', 'International cuisine', 'Streets', 'Museum', 'Bike tours', 'Landscape and nature')",0.58776058,0.511390907,9999,1.0991514869999999,0.2188852733358413,0.2625510521231518

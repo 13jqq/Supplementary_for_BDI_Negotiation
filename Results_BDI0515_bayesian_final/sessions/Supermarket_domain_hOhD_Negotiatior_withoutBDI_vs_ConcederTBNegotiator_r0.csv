@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ConcederTBNegotiator,Supermarket_domain_hOhD,"('Baguette', 'Strawberries', 'Potato Chips', 'Peanut butter', 'Spinach', 'Beer')",0.909028,0.4956805166,725,1.4047085166,0.050000000000000044,0.4133894440947904

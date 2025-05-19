@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,Supermarket_domain_hOhD,"('Baguette', 'Strawberries', 'Candy', 'Peanut butter', 'Tomatos', 'Beer')",0.8868064999999999,0.5474082435000001,8204,1.4342147435,0.01666650000000003,0.35778279267687374

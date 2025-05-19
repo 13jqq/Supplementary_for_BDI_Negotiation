@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,NaiveTitForTatNegotiator,Supermarket_domain_hOmD,"('Croissants', 'Melons', 'Candy', 'Salami', 'Tomatos', 'Energy Drinks')",0.5166685000000001,0.5106270109,9975,1.0272955109000002,0.12573832354056125,0.18681380210093118

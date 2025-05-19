@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,CUHKAgent,travel_domain_mOmD,"('Hospitality', 'Nightclubs', 'Local cuisine', 'Streets', 'Theater', 'Bike tours', 'Monuments')",0.942686212,0.7207555260999999,10000,1.6634417381,0.0,0.0

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,CUHKAgent,Supermarket_domain_lOhD,"('Baguette', 'Melons', 'Popcorn', 'Peanut butter', 'Spinach', 'Coca Cola')",0.943056,0.7517176195999999,9871,1.6947736195999998,0.0,0.17593511148986543

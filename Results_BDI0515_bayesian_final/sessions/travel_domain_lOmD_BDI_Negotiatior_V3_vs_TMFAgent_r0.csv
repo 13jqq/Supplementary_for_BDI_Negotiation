@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,travel_domain_lOmD,"('Hospitality', 'Festivals', 'Local cuisine', 'Streets', 'Art gallery', 'Adventure', 'Palace')",0.7835166914999999,0.8599204934,9993,1.6434371848999998,0.0140253089634159,0.0642504737550313

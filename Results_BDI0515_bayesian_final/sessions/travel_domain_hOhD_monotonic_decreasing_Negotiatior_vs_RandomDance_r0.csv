@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,RandomDance,travel_domain_hOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Small boutiques', 'Museum', 'Bike tours', 'Monuments')",0.9848312833,0.21583121460000002,9993,1.2006624979,0.02786617508414677,0.8314603200059086

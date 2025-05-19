@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,ConcederTBNegotiator,Supermarket_domain_mOhD,"('Baguette', 'Pears', 'Cookies', 'Peanut butter', 'Spinach', 'Fanta')",0.953472,0.394118036,1355,1.347590036,0.030280371082272443,0.5167266917815038

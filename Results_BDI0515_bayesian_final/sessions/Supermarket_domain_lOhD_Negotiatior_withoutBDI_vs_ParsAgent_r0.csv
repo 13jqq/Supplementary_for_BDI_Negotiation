@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,Supermarket_domain_lOhD,"('Baguette', 'Melons', 'Popcorn', 'Peanut butter', 'Tomatos', 'Coca Cola')",0.887501,0.8109076792000001,9969,1.6984086792,0.0533523448374767,0.102600878451821

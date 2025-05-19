@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TMFAgent,Supermarket_domain_lOmD,"('Baguette', 'Pears', 'Popcorn', 'Peanut butter', 'Spinach', 'Beer')",0.9812500000000001,0.8091187578,9998,1.7903687578,0.0,0.1437533671809431

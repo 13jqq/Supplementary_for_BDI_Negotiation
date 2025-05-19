@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TheFawkes,Supermarket_domain_hOlD,"('Crackers', 'Bananas', 'Popcorn', 'Cheese', 'Carrots', 'Coffee')",0.9653650931,0.3787969154,9992,1.3441620085,0.0,0.6904290155092693

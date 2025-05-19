@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,RandomDance,travel_domain_hOmD,"('Security (personal)', 'Zoo', 'Lunch facilities', 'Shopping malls', 'Theater', 'Bike tours', 'See, river, etc.')",0.97702047,0.3661633911,9993,1.3431838611,0.028311880707988995,0.5550016247975176

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TheFawkes,Supermarket_domain_mOmD,"('Baguette', 'Melons', 'Popcorn', 'Peanut butter', 'Spinach', 'Energy Drinks')",0.9555560000000001,0.6608611138999999,9976,1.6164171138999999,0.0,0.03971674299204245

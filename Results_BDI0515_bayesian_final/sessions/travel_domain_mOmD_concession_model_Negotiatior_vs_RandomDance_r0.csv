@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,RandomDance,travel_domain_mOmD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Small boutiques', 'Theater', 'Outdoor activities', 'Monuments')",0.9670988272,0.2517162373,9993,1.2188150645,0.032901172800000045,0.46967417452837773

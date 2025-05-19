@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,CUHKAgent,Supermarket_domain_hOlD,"('Crackers', 'Apples', 'Popcorn', 'Jam', 'Tomatos', 'Coffee')",0.9351193098,0.4336586676,10000,1.3687779774,0.0,0.628406428275043

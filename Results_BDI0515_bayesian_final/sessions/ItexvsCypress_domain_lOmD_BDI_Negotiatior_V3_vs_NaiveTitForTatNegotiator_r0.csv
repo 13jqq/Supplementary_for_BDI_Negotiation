@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,NaiveTitForTatNegotiator,ItexvsCypress_domain_lOmD,"('$3.71', '20 days', 'Upon delivery', 'Full price')",0.9156361102,0.587381308,9077,1.5030174182,0.0,0.4193610027628548

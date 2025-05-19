@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,Atlas3,Supermarket_domain_mOlD,"('Crackers', 'Strawberries', 'Potato Chips', 'Sandwichspread', 'Potatoes', 'Beer')",0.9648305717,0.40568208680000006,9288,1.3705126585,0.0,0.2512099712782382

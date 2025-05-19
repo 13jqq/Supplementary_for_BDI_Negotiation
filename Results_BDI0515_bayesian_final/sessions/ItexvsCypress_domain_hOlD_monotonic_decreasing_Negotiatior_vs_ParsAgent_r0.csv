@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,ParsAgent,ItexvsCypress_domain_hOlD,"('$4.12', '20 days', '60 days after delivery', 'Full price')",0.4611765154,0.778816925,7997,1.2399934404,0.0,0.17087163955754117

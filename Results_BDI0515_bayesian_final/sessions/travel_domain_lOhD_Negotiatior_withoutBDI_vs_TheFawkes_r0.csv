@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,travel_domain_lOhD,"('Hospitality', 'Zoo', 'Local cuisine', 'Small boutiques', 'Art gallery', 'Bike tours', 'Monuments')",0.9391937665000001,0.6444193693,9976,1.5836131358,0.009895566453879531,0.2361186525484137

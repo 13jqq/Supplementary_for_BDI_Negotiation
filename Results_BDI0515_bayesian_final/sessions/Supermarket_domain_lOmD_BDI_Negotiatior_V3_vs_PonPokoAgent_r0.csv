@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,PonPokoAgent,Supermarket_domain_lOmD,"('Baguette', 'Pears', 'Popcorn', 'Peanut butter', 'Tomatos', 'Milk')",0.925695,0.8929520118,1163,1.8186470118,0.03211940967340354,0.04875133239999996

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,BoulwareTBNegotiator,Supermarket_domain_mOmD,"('Baguette', 'Melons', 'Popcorn', 'Peanut butter', 'Spinach', 'Fanta')",0.936806,0.6798183643,7727,1.6166243643,0.015779624611587162,0.0160549928

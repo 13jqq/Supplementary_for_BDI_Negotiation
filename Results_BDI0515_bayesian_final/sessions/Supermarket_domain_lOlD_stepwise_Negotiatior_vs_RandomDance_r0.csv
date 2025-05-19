@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,RandomDance,Supermarket_domain_lOlD,"('Plain bread', 'Grapes', 'Doughnuts', 'Egg Salad', 'Leek', 'Coffee')",0.9964023981,0.1820803687,9993,1.1784827668,0.02866295307712838,0.7461015732628229

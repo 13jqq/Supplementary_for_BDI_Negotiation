@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,Atlas3,travel_domain_hOhD,"('Hospitality', 'Amusement park', 'Local cuisine', 'Shopping malls', 'Theater', 'Indoor activities', 'Monuments')",0.9035738660000001,0.5269513829,9240,1.4305252489,0.0,0.5179248175948742

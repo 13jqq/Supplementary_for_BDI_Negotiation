@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,travel_domain_hOhD,"('Hospitality', 'Zoo', 'International cuisine', 'Shopping malls', 'Congress center', 'Bike tours', 'Monuments')",0.8276045888,0.6084958027,7919,1.4361003915000001,0.0208876068887794,0.40958120009115545

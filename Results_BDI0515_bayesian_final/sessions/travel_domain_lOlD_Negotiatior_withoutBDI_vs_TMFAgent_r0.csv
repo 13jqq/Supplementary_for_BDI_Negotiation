@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,travel_domain_lOlD,"('Political stability', 'Amusement park', 'Lunch facilities', 'Shopping malls', 'Cinema', 'Outdoor activities', 'Special streets')",0.6654468005999999,0.8810472232,9998,1.5464940237999998,0.08090725208564398,0.09243312608859591

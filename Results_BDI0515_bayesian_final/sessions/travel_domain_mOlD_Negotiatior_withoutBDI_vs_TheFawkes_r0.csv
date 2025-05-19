@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,travel_domain_mOlD,"('Hospitality', 'Nightlife and entertainment', 'International cuisine', 'Markets', 'Museum', 'Bike tours', 'Palace')",0.8240992831,0.7200875181999999,9970,1.5441868013,0.0,0.0

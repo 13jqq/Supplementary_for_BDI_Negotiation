@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,travel_domain_mOmD,"('Hospitality', 'Nightclubs', 'Cooking workshops', 'Streets', 'Theater', 'Bike tours', 'Monuments')",0.734586212,0.8691470011,9988,1.6037332131,0.0,0.2555888101084937

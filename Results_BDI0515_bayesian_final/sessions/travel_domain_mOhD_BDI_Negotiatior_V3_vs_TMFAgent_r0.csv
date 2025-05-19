@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,travel_domain_mOhD,"('Hospitality', 'Excursion', 'International cuisine', 'Markets', 'Museum', 'Outdoor activities', 'Monuments')",0.7981224104000001,0.5972966990999999,9997,1.3954191095000001,0.18459342067616422,0.20988407605139872

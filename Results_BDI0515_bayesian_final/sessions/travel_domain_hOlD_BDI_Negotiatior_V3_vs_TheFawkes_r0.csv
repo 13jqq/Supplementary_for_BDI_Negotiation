@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TheFawkes,travel_domain_hOlD,"('Political stability', 'Excursion', 'Lunch facilities', 'Streets', 'Theater', 'Indoor activities', 'Palace')",0.9590269672,0.38902661250000004,9992,1.3480535797000002,0.0,0.3339982082954338

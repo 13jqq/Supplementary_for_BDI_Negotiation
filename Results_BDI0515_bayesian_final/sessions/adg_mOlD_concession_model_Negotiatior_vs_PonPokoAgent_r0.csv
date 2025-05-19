@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,PonPokoAgent,adg_mOlD,"('standard', 'standard', 'fairly good', 'good', 'fairly good', 'good')",0.9726000000000001,0.7659159034,8611,1.7385159034000002,0.0,0.21137419784140096

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,BoulwareTBNegotiator,travel_domain_lOhD,"('Hospitality', 'Zoo', 'Local cuisine', 'Small boutiques', 'Congress center', 'Bike tours', 'Monuments')",0.9397404928,0.6542998210000001,7685,1.5940403138,0.0,0.2269604109976715

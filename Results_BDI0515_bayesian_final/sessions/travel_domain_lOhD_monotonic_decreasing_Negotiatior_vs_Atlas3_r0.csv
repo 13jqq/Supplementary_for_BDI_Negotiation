@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,Atlas3,travel_domain_lOhD,"('Hospitality', 'Zoo', 'Local cuisine', 'Small boutiques', 'Congress center', 'Outdoor activities', 'Monuments')",0.90683932,0.8077619683,9202,1.7146012883,0.0,0.07419091948581984

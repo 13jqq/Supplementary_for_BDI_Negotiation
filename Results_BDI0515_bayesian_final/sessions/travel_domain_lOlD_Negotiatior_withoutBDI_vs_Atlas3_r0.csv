@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,travel_domain_lOlD,"('Local traditions', 'Casinos', 'Lunch facilities', 'Shopping malls', 'Art gallery', 'Bike tours', 'Parks and Gardens')",0.9050588851,0.4839638661,6926,1.3890227512,0.0,0.45109200196534294

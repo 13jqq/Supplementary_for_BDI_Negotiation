@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,CUHKAgent,thompson_employment_lOhD,"('10%', 'Division E', '90%', '80%', '$38,000')",0.8725,0.8740893763,9994,1.7465893763000002,0.0,0.043774780548634665

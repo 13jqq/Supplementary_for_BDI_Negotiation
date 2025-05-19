@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,NaiveTitForTatNegotiator,travel_domain_hOmD,"('Security (personal)', 'Casinos', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Monuments')",0.9581545816,0.5249907279,9641,1.4831453095,0.0,0.42043724050712317

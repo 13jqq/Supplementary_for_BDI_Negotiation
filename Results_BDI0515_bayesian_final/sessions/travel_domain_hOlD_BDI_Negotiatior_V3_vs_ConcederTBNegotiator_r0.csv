@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,ConcederTBNegotiator,travel_domain_hOlD,"('Local traditions', 'Festivals', 'Lunch facilities', 'Markets', 'Theater', 'Indoor activities', 'Palace')",0.999699406,0.2917079718,2516,1.2914073778,0.0003644128830462,0.4387821335062412

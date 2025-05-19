@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,Atlas3,adg_hOmD,"('meager', 'none', 'fairly good', 'standard', 'standard', 'fairly good')",0.8451142172,0.5497969689000001,9224,1.3949111861,0.0,0.2856809838322881

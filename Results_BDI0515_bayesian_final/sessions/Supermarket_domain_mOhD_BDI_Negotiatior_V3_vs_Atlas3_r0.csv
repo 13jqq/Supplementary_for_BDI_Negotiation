@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,Atlas3,Supermarket_domain_mOhD,"('Baguette', 'Strawberries', 'Cookies', 'Ham', 'Spinach', 'Juice')",0.9145835,0.5905909092,9266,1.5051744092,0.0,0.3230250868236778

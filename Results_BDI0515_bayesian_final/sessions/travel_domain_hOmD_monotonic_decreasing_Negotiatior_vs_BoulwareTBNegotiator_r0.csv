@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,BoulwareTBNegotiator,travel_domain_hOmD,"('Cultural heritage', 'Zoo', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Palace')",0.9547363628000001,0.5228446200000001,8369,1.4775809828000002,0.004036087075759764,0.4195572625478019

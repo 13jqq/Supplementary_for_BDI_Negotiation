@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,ConcederTBNegotiator,travel_domain_hOmD,"('Security (personal)', 'Casinos', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Palace')",0.9692643516,0.5112427404,589,1.4805070919999999,0.0,0.4380187966778498

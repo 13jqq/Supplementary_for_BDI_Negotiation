@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,travel_domain_mOmD,"('Political stability', 'Amusement park', 'Local cuisine', 'Shopping malls', 'Museum', 'Hiking', 'Monuments')",0.7382207443000001,0.6561876960999999,9993,1.3944084404,0.11612186158642131,0.21441812458999035

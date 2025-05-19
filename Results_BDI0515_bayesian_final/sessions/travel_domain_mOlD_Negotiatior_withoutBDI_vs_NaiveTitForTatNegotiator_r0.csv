@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,NaiveTitForTatNegotiator,travel_domain_mOlD,"('Hospitality', 'Nightlife and entertainment', 'International cuisine', 'Markets', 'Cinema', 'Outdoor activities', 'Historical places')",0.8477318083000001,0.5333027934,9973,1.3810346017000001,0.06975861033099423,0.18827381566734222

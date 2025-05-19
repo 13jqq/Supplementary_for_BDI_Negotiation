@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,MiCRO,travel_domain_lOhD,,0,0,10004,0,1.016503286707153,1.2246586887184383

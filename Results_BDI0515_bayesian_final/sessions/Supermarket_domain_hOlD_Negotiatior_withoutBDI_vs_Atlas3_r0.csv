@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,Supermarket_domain_hOlD,"('Crackers', 'Melons', 'Popcorn', 'Chocolate', 'Leek', 'Coffee')",0.9257226826,0.47019912140000003,8084,1.395921804,0.0,0.5938415738334595

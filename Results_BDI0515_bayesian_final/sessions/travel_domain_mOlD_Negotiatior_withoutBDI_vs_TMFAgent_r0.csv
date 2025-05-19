@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,travel_domain_mOlD,"('Turistic activities', 'Zoo', 'Lunch facilities', 'Streets', 'Museum', 'Adventure', 'Historical places')",0.5391021808,0.5769074091,9997,1.1160095899,0.21142791343210277,0.31894183162652795

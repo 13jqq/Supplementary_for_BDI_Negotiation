@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,Supermarket_domain_lOmD,"('Baguette', 'Cherries', 'Chocolate bars', 'Salami', 'Tomatos', 'Coca Cola')",0.659723,0.8625361158,9998,1.5222591157999998,0.12037498948017053,0.27750415282755286

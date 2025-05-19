@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,RandomDance,travel_domain_hOlD,"('Local traditions', 'Nightlife and entertainment', 'Lunch facilities', 'Markets', 'Theater', 'Indoor activities', 'Palace')",0.9797184934,0.2914412941,9993,1.2711597875,0.005744761102696791,0.429875781418608

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,BoulwareTBNegotiator,Supermarket_domain_mOlD,"('Plain bread', 'Strawberries', 'Cookies', 'Egg Salad', 'Potatoes', 'Beer')",0.9542460957,0.37971973040000007,8903,1.3339658261,0.01915534808895489,0.27492492800232776

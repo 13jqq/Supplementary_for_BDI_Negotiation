@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,MiCRO,thompson_employment_mOhD,"('10%', 'Division E', '80%', '60%', '$38,000')",0.7875000000000001,0.6410757345,2797,1.4285757345,0.0,0.21839853851135196

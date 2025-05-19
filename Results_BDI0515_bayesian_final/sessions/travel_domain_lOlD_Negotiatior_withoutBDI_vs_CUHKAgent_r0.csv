@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,travel_domain_lOlD,"('Local traditions', 'Amusement park', 'Lunch facilities', 'Streets', 'Theater', 'Outdoor activities', 'Palace')",0.8088689157,0.6934921634,10000,1.5023610791,0.01848152138079609,0.22235443914709008

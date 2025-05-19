@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,ConcederTBNegotiator,travel_domain_hOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Monuments')",0.95692,0.5241374093000001,635,1.4810574093,0.0,0.5495593410739207

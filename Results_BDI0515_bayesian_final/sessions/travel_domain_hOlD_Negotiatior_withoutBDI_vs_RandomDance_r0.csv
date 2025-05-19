@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,travel_domain_hOlD,"('Cultural heritage', 'Excursion', 'Lunch facilities', 'Markets', 'Theater', 'Hiking', 'Square')",0.3207260875,0.8894140506999999,9990,1.2101401381999999,0.0,0.5157114397554272

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TMFAgent,travel_domain_hOlD,"('Cultural heritage', 'Nightclubs', 'Lunch facilities', 'Small boutiques', 'Theater', 'Bike tours', 'Palace')",0.8461896372,0.3619256476,9998,1.2081152847999999,0.05937074219547925,0.32052564713900084

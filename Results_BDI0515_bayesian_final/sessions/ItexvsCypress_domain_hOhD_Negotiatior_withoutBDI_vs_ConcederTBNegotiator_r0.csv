@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ConcederTBNegotiator,ItexvsCypress_domain_hOhD,"('$3.47', '60 days', 'Upon delivery', 'Full price')",0.87792,0.7336045475999999,52,1.6115245476,0.0,0.0

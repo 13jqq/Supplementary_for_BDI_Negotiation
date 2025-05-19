@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,Supermarket_domain_mOmD,"('Baguette', 'Melons', 'Popcorn', 'Peanut butter', 'Tomatos', 'Energy Drinks')",0.900001,0.6506645986999999,9998,1.5506655987,0.041169133672379336,0.058296139332459855

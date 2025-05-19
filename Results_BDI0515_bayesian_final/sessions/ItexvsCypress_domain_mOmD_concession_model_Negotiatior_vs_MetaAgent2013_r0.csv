@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,ItexvsCypress_domain_mOmD,"('$3.71', '45 days', '30 days after delivery', 'Full price')",0.7253763179999999,0.7387400980000001,9473,1.464116416,0.0,0.08219846664682735

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,MetaAgent2013,ItexvsCypress_domain_mOhD,"('$3.47', '45 days', 'Upon delivery', 'Full price')",0.9237,0.609385524,10000,1.533085524,0.0,0.3919577779382616

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,RandomDance,adg_hOhD,"('meager', 'standard', 'standard', 'standard', 'none', 'meager')",0.499070488,0.4734086344,9993,0.9724791224,0.28257720638540273,0.34176468796027387

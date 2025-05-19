@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,Supermarket_domain_mOhD,"('Baguette', 'Apples', 'Candy', 'Ham', 'Tomatos', 'Energy Drinks')",0.7111120000000001,0.4032621036,10000,1.1143741036,0.247590907836294,0.469223869424599

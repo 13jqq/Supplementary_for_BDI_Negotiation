@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MiCRO,adg_lOhD,"('standard', 'fairly good', 'fairly good', 'fairly good', 'fairly good', 'good')",0.9805,0.95471233,1315,1.9352123300000001,0.0,0.012813665911951782

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,RandomDance,travel_domain_hOlD,"('Hospitality', 'Festivals', 'Lunch facilities', 'Small boutiques', 'Music hall', 'Indoor activities', 'Palace')",0.9784255,0.2225308413,9993,1.2009563413,0.07187152008640373,0.4922234450941235

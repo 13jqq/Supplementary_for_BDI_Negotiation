@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,CUHKAgent,ItexvsCypress_domain_mOlD,"('$3.98', '20 days', '60 days after delivery', '10% spoilage allowed')",0.41132090760000006,0.9352248176,9994,1.3465457252,0.0,0.27051537045783525

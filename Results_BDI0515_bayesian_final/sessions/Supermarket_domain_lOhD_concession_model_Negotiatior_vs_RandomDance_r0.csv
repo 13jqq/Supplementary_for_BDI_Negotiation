@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,RandomDance,Supermarket_domain_lOhD,"('Baguette', 'Pears', 'Popcorn', 'Ham', 'Spinach', 'Coca Cola')",0.9708335,0.7437515325999999,8960,1.7145850326,0.0,0.1958480213858862

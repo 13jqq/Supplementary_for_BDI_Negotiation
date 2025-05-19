@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MiCRO,Supermarket_domain_lOhD,"('Baguette', 'Melons', 'Doughnuts', 'Ham', 'Spinach', 'Coca Cola')",0.881945,0.8639699404000001,1616,1.7459149404,0.0,0.0494404880785441

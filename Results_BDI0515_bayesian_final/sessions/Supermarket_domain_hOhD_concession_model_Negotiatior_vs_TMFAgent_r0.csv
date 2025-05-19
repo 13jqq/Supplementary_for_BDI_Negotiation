@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TMFAgent,Supermarket_domain_hOhD,"('Baguette', 'Strawberries', 'Popcorn', 'Sandwichspread', 'Spinach', 'Beer')",0.875694,0.4415713986,9998,1.3172653986,0.09935971118485565,0.44562803020669356

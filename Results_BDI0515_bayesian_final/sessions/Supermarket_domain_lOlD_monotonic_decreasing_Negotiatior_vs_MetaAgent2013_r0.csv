@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,MetaAgent2013,Supermarket_domain_lOlD,"('Baguette', 'Strawberries', 'Doughnuts', 'Salami', 'Leek', 'Juice')",0.9723634789000001,0.2127854346,9883,1.1851489135,0.03794693726450427,0.7129807281345313

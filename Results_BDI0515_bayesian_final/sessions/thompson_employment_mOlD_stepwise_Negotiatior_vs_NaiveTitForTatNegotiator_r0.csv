@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,NaiveTitForTatNegotiator,thompson_employment_mOlD,"('10%', 'Division D', '100%', '100%', '$38,000')",0.9375,0.509916882,339,1.447416882,0.00721957129122544,0.2540460313563135

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,RandomDance,travel_domain_lOlD,"('Security (personal)', 'Casinos', 'Lunch facilities', 'Streets', 'Theater', 'Outdoor activities', 'Parks and Gardens')",0.9887756388,0.2354688071,9993,1.2242444459,0.02023375157316479,0.7132847053376625

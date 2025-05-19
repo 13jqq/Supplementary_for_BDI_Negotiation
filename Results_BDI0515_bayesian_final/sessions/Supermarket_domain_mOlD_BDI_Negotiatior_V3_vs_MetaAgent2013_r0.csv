@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,MetaAgent2013,Supermarket_domain_mOlD,"('Croissants', 'Melons', 'Potato Chips', 'Sandwichspread', 'Potatoes', 'Beer')",0.98408815,0.3129999602,9816,1.2970881101999998,0.0082657454924325,0.3458716349631465

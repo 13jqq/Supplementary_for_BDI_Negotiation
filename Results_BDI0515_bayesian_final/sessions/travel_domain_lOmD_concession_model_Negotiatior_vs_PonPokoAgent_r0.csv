@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,PonPokoAgent,travel_domain_lOmD,,0,0,10004,0,1.0229107123161667,1.1996396995307752

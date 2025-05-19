@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,ItexvsCypress_domain_lOlD,"('$3.47', '20 days', 'Upon delivery', '10% spoilage allowed')",0.76937,0.8321713432,9966,1.6015413432,0.0,0.06019471875755594

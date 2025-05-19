@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,ConcederTBNegotiator,travel_domain_mOlD,"('Hospitality', 'Nightlife and entertainment', 'International cuisine', 'Small boutiques', 'Museum', 'Outdoor activities', 'Square')",0.9802418083,0.4606466901,887,1.4408884984,0.0022926453,0.3028036186392863

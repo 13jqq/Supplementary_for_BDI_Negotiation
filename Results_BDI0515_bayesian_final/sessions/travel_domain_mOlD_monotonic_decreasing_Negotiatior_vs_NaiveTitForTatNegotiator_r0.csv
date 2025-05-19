@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,NaiveTitForTatNegotiator,travel_domain_mOlD,"('Hospitality', 'Casinos', 'International cuisine', 'Small boutiques', 'Museum', 'Bike tours', 'Palace')",0.9283074748000001,0.5083286777,9929,1.4366361525000002,0.0,0.23601091870353874

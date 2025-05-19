@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,Atlas3,ItexvsCypress_domain_hOlD,"('$4.12', '20 days', '60 days after delivery', '10% spoilage allowed')",0.23054651539999998,0.990036925,9729,1.2205834404,0.0,0.4834366791870309

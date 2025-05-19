@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TheFawkes,Supermarket_domain_lOlD,"('Croissants', 'Grapes', 'Doughnuts', 'Egg Salad', 'Broccoli', 'Coffee')",0.9605070516,0.5452379687,9984,1.5057450203,0.018096845714231976,0.38137314620982404

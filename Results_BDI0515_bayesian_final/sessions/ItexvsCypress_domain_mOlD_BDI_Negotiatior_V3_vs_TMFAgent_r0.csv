@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,ItexvsCypress_domain_mOlD,"('$3.47', '20 days', '60 days after delivery', 'Full price')",0.82273,0.6055823056,9998,1.4283123056,0.0,0.2834894306371304

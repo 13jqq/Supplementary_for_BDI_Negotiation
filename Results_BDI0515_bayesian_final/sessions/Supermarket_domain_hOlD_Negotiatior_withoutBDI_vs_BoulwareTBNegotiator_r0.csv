@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,Supermarket_domain_hOlD,"('Crackers', 'Cherries', 'Popcorn', 'Cheese', 'Leek', 'Coffee')",0.9133792297000001,0.5311663978000001,8276,1.4445456275000002,0.0,0.5393369365903421

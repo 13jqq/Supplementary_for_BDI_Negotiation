@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,ConcederTBNegotiator,travel_domain_hOlD,"('Cultural heritage', 'Zoo', 'Lunch facilities', 'Markets', 'Theater', 'Indoor activities', 'Palace')",0.9747399999999999,0.2943078048,2485,1.2690478048,0.0,0.42512646704297496

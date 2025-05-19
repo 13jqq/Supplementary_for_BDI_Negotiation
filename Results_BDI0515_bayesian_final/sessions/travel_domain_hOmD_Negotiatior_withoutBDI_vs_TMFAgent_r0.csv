@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,travel_domain_hOmD,"('Security (personal)', 'Festivals', 'Cooking workshops', 'Small boutiques', 'Congress center', 'Bike tours', 'Special streets')",0.36479940000000005,0.7218399075,9998,1.0866393075,0.18718968393809315,0.31274048982364583

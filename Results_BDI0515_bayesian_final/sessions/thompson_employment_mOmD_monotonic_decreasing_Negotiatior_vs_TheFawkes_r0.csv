@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TheFawkes,thompson_employment_mOmD,"('10%', 'Division E', '90%', '0%', '$38,000')",0.8274999999999999,0.783034553,9960,1.610534553,0.0,0.12320769124940395

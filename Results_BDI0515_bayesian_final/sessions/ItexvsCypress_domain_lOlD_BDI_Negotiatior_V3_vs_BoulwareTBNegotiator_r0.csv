@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,BoulwareTBNegotiator,ItexvsCypress_domain_lOlD,"('$3.47', '30 days', 'Upon delivery', '5% spoilage allowed')",0.8116806477,0.7594919918,7017,1.5711726395,0.0,0.1442923909583134

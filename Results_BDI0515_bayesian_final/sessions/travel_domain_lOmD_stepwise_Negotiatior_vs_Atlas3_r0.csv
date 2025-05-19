@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,Atlas3,travel_domain_lOmD,"('Hospitality', 'Amusement park', 'Local cuisine', 'Streets', 'Art gallery', 'Adventure', 'Monuments')",0.8863910953,0.6925870129999999,9176,1.5789781082999998,0.0,0.1619045299776455

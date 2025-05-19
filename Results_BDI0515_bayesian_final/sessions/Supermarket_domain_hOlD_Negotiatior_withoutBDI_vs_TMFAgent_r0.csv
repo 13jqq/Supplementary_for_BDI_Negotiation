@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,TMFAgent,Supermarket_domain_hOlD,"('Crackers', 'Apples', 'Cookies', 'Chocolate', 'Leek', 'Fanta')",0.2820626826,0.8664094756,9998,1.1484721582000001,0.12772030911663826,0.2798414690534767

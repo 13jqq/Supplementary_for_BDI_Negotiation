@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,Atlas3,Supermarket_domain_lOlD,"('Plain bread', 'Grapes', 'Doughnuts', 'Peanut butter', 'Broccoli', 'Coffee')",0.9593920762,0.6062783909,9261,1.5656704671,0.04035999999999995,0.3209022603414613

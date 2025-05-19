@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,RandomDance,thompson_employment_hOmD,"('10%', 'Division C', '100%', '100%', '$38,000')",0.9175,0.0645246375,9993,0.9820246375,0.09010893024662654,0.7183335455994355

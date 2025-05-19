@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MiCRO,ItexvsCypress_domain_mOhD,"('$3.47', '30 days', 'Upon delivery', '5% spoilage allowed')",0.8116806477,0.845218485,221,1.6568991327,0.0,0.1312030557557542

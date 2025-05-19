@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,PonPokoAgent,thompson_employment_hOmD,"('6%', 'Division E', '90%', '80%', '$40,000')",0.7100000000000001,0.7529003861,9961,1.4629003861,0.028386824332992784,0.028386824332992784

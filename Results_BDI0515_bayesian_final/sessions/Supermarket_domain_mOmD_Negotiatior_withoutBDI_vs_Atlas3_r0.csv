@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,Atlas3,Supermarket_domain_mOmD,"('Baguette', 'Melons', 'Candy', 'Peanut butter', 'Spinach', 'Juice')",0.9201395,0.6991891376,9498,1.6193286376,0.0,0.016993134571766957

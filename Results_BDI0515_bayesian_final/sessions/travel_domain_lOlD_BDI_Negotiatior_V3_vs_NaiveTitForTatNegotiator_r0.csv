@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,NaiveTitForTatNegotiator,travel_domain_lOlD,"('Turistic activities', 'Amusement park', 'Lunch facilities', 'Streets', 'Cinema', 'Bike tours', 'Palace')",0.7349819719,0.7761562101999999,10003,1.5111381820999998,0.0263394360093657,0.134009301366367

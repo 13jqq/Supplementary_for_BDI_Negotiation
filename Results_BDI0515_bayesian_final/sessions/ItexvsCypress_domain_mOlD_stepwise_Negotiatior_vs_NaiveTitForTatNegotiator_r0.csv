@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,NaiveTitForTatNegotiator,ItexvsCypress_domain_mOlD,"('$3.47', '20 days', 'Upon delivery', '5% spoilage allowed')",0.8422006477,0.5140037102,9227,1.3562043579,0.0,0.37203833270242465

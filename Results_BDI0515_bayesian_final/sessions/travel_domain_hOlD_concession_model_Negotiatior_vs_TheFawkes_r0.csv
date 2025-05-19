@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TheFawkes,travel_domain_hOlD,"('Political stability', 'Zoo', 'Lunch facilities', 'Streets', 'Theater', 'Indoor activities', 'Palace')",0.9337669672,0.39142043579999997,9990,1.325187403,0.0,0.3198841135385026

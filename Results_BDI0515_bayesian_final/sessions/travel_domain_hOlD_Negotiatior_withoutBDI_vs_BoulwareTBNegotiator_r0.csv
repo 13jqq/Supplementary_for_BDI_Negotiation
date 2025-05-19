@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,travel_domain_hOlD,"('Local traditions', 'Festivals', 'Local cuisine', 'Streets', 'Congress center', 'Indoor activities', 'Palace')",0.9061886117,0.3583073016,8985,1.2644959133,0.04267515458186381,0.33950304150085664

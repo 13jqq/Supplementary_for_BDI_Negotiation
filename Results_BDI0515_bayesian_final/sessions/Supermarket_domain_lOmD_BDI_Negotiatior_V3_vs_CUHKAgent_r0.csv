@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,CUHKAgent,Supermarket_domain_lOmD,"('Baguette', 'Strawberries', 'Popcorn', 'Peanut butter', 'Spinach', 'Wine')",0.946528,0.7697128327,9801,1.7162408327,0.0525208931472686,0.1732476549192848

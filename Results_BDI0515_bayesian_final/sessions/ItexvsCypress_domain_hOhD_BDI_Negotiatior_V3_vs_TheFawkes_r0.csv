@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TheFawkes,ItexvsCypress_domain_hOhD,"('$4.37', '60 days', 'Upon delivery', 'Full price')",0.40790000000000004,0.9764999999999999,9324,1.3843999999999999,0.0,0.5290718299027086

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,MetaAgent2013,Supermarket_domain_mOmD,"('Baguette', 'Melons', 'Chocolate bars', 'Peanut butter', 'Spinach', 'Juice')",0.886806,0.7323950048,9998,1.6192010047999998,0.0,0.061917935614189526

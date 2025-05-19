@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MiCRO,Supermarket_domain_mOmD,"('Baguette', 'Apples', 'Popcorn', 'Peanut butter', 'Spinach', 'Juice')",0.78125,0.8099016242999999,7116,1.5911516243,0.0,0.192873312971584

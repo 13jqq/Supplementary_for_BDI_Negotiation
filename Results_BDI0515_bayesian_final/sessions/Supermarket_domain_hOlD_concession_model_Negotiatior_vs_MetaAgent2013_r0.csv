@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,MetaAgent2013,Supermarket_domain_hOlD,"('Plain bread', 'Apples', 'Chocolate bars', 'Sandwichspread', 'Tomatos', 'Coffee')",0.7986290232,0.5174080908,9998,1.316037114,0.057853346416699813,0.48247801631235293

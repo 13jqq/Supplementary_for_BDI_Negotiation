@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,CUHKAgent,ItexvsCypress_domain_hOlD,"('$4.12', '30 days', '30 days after delivery', 'Full price')",0.4939667232,0.700605141,10000,1.1945718642,0.0231733094426296,0.097150496430373

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TheFawkes,adg_lOlD,"('good', 'fairly good', 'fairly good', 'standard', 'good', 'standard')",0.9763000000000001,0.6697649512,9974,1.6460649512,0.0,0.1997364175127272

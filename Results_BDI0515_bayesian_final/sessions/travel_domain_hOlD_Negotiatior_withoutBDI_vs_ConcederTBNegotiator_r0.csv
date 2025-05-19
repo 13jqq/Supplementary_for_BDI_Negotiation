@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ConcederTBNegotiator,travel_domain_hOlD,"('Turistic activities', 'Nightclubs', 'Lunch facilities', 'Streets', 'Theater', 'Indoor activities', 'Palace')",0.9391799326,0.3880388224,1402,1.327218755,0.0063824371214025195,0.325343684432572

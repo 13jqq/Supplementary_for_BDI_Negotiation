@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,Supermarket_domain_lOlD,"('Baguette', 'Cherries', 'Candy', 'Jam', 'Broccoli', 'Coffee')",0.880867282,0.7001876075,9963,1.5810548894999998,0.07233994365989077,0.22379887314980032

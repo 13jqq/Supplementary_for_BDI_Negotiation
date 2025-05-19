@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,TheFawkes,travel_domain_lOmD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Streets', 'Art gallery', 'Adventure', 'Monuments')",0.9064472292999999,0.6901131793999999,9972,1.5965604086999998,0.0,0.17023817562026722

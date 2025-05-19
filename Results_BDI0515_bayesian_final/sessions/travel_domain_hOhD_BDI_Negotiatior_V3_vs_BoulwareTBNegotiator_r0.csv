@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,BoulwareTBNegotiator,travel_domain_hOhD,"('Hospitality', 'Nightlife and entertainment', 'Local cuisine', 'Shopping malls', 'Theater', 'Outdoor activities', 'Monuments')",0.9240188272,0.5207027549000001,8365,1.4447215821,0.0140565415387477,0.5339894865011543

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,travel_domain_hOmD,"('Hospitality', 'Zoo', 'Lunch facilities', 'Shopping malls', 'Theater', 'Bike tours', 'Palace')",0.9951372464000001,0.3140188259,3,1.3091560723000002,0.0688544426073768,0.6083615448547489

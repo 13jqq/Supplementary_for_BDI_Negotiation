@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+BDI_Negotiatior_V3,TMFAgent,travel_domain_hOlD,"('Cultural heritage', 'Nightclubs', 'Local cuisine', 'Streets', 'Museum', 'Indoor activities', 'Palace')",0.8574956062999999,0.3904532272,9998,1.2479488335,0.0342270673865856,0.2948104061144541

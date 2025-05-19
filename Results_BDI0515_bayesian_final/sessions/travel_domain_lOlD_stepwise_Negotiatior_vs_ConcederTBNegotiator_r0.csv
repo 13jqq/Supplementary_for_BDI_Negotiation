@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,ConcederTBNegotiator,travel_domain_lOlD,"('Hospitality', 'Excursion', 'Lunch facilities', 'Small boutiques', 'Art gallery', 'Outdoor activities', 'Parks and Gardens')",0.9658081976999999,0.3018753277,2405,1.2676835253999998,0.0,0.6430189285944664

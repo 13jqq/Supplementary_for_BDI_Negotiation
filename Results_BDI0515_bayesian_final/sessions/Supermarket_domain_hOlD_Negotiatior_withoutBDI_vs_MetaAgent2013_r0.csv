@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,Supermarket_domain_hOlD,"('Baguette', 'Apples', 'Nachos', 'Peanut butter', 'Leek', 'Milk')",0.39050815260000005,0.9595708068,9998,1.3500789594,0.028212337782104156,0.16543711691857593

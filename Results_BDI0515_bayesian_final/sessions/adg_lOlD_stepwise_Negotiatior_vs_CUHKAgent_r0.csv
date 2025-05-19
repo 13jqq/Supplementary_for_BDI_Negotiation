@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,CUHKAgent,adg_lOlD,"('good', 'fairly good', 'standard', 'standard', 'good', 'standard')",0.9712000000000001,0.7629632488,9819,1.7341632488,0.0,0.10873457733503919

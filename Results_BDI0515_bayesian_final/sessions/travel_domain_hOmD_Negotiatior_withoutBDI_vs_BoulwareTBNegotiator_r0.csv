@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,BoulwareTBNegotiator,travel_domain_hOmD,"('Turistic activities', 'Casinos', 'Local cuisine', 'Shopping malls', 'Theater', 'Bike tours', 'Parks and Gardens')",0.8862250764,0.5752775743999999,8131,1.4615026508,0.014314774447597175,0.3343729573767219

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,BoulwareTBNegotiator,ItexvsCypress_domain_lOmD,"('$3.47', '20 days', '30 days after delivery', 'Full price')",0.8860402077999999,0.6994321688,7406,1.5854723765999998,0.0,0.303490535115808

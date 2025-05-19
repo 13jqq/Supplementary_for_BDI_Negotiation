@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,CUHKAgent,travel_domain_mOlD,"('Hospitality', 'Amusement park', 'International cuisine', 'Markets', 'Art gallery', 'Outdoor activities', 'Historical places')",0.8412193137999999,0.5139725973,10000,1.3551919111,0.08126290620881352,0.20682469888478544

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,ParsAgent,Supermarket_domain_mOmD,"('Baguette', 'Apples', 'Popcorn', 'Salami', 'Tomatos', 'Wine')",0.646529,0.7186865017999999,9977,1.3652155017999998,0.1324706669259427,0.2911720733520011

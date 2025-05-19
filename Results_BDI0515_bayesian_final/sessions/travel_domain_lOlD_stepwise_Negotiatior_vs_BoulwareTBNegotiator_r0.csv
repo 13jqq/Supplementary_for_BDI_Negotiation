@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+stepwise_Negotiatior,BoulwareTBNegotiator,travel_domain_lOlD,"('Local traditions', 'Amusement park', 'Lunch facilities', 'Streets', 'Art gallery', 'Bike tours', 'Parks and Gardens')",0.9639061375,0.2894338661,9193,1.2533400036,0.012586016039585278,0.6541621991303901

@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,Atlas3,travel_domain_lOlD,"('Local traditions', 'Excursion', 'Lunch facilities', 'Small boutiques', 'Art gallery', 'Bike tours', 'Parks and Gardens')",0.9420545215,0.3299894805,9104,1.272044002,0.0,0.6087825237093504

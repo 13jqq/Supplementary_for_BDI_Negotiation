@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+monotonic_decreasing_Negotiatior,CUHKAgent,Supermarket_domain_lOlD,"('Croissants', 'Grapes', 'Doughnuts', 'Peanut butter', 'Leek', 'Coffee')",0.9952874227,0.3238407909,10000,1.3191282136,0.0,0.6054768596468812

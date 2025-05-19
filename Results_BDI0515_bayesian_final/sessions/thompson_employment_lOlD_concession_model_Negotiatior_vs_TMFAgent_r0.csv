@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+concession_model_Negotiatior,TMFAgent,thompson_employment_lOlD,"('10%', 'Division B', '100%', '20%', '$36,000')",0.8099999999999999,0.83570375,9998,1.64570375,0.0,0.15915192944323922

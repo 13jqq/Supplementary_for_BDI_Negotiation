@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,CUHKAgent,Supermarket_domain_mOlD,"('Crackers', 'Pears', 'Potato Chips', 'Egg Salad', 'Spinach', 'Coca Cola')",0.5272914498,0.6357369992999999,10000,1.1630284491,0.21328801588244264,0.3868178196024838

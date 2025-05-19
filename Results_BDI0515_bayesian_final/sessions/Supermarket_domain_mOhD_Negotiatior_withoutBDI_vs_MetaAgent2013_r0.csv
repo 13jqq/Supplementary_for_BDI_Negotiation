@@ -1,0 +1,2 @@
+self_agent,opp_agent,env,agreement,self_ufun_agreement,oppo_ufun_agreement,number_of_steps,total_social_welfare,pareto_distance,nash_distance
+Negotiatior_withoutBDI,MetaAgent2013,Supermarket_domain_mOhD,"('Baguette', 'Strawberries', 'Cookies', 'Peanut butter', 'Spinach', 'Juice')",0.93125,0.5902175796,9595,1.5214675796,0.0,0.3319676142459356
